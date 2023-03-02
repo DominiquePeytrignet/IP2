@@ -1,6 +1,5 @@
-# USAGE
-# python object_size.py --image images/example_01.png --width 0.955
-# python object_size.py --image images/example_02.png --width 0.955
+# USAGE https://github.com/prateekralhan/Object-Size-measurement-in-an-image-using-openCV4.0-and-imutils
+
 # python object_size.py --image images/example_03.png --width 3.5
 
 # import the necessary packages
