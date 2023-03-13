@@ -15,7 +15,7 @@ def show_images(images):
 	cv2.destroyAllWindows()
 
 #CHANGE HERE IMAGE FILE
-img_path = "images/Test_1_1.jpg"
+img_path = "images/Test_1.jpg"
 
 # Read image and preprocess
 image = cv2.imread(img_path)

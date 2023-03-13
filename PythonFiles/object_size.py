@@ -15,7 +15,7 @@ def midpoint(ptA, ptB):
 	return ((ptA[0] + ptB[0]) * 0.5, (ptA[1] + ptB[1]) * 0.5)
 
 # define image_path and known width of the left-most object 
-image_path = "Images/Test_1_1.jpg"
+image_path = "Images/Test_1.jpg"
 width = 3.145
 
 # load the image, convert it to grayscale, and blur it slightly
