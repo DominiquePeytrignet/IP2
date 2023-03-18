@@ -8,4 +8,4 @@ To probarly use the script and recreate the measurement results gained with the 
 | Image path    | Width         |
 | ------------- | ------------- |
 | Image_1.jpg   | 31.34         |
-| Content Cell  | Content Cell  |
+| Content Cell    | Content Cell  |
