@@ -1,11 +1,16 @@
-# BTHE
-Bachelor Thesis about Image Processing
+# Industry Project 2
+Industry Project 2 about object measuring in images. Acts as prestudy for Bachelor Thesis.
 
-FUTURE MANAGEMENT SUMMARY
+Author: Dominique Peytrignet
+1st Supervisor: Prof. Dr. Cédric Bessire
+2nd Supervisor: Matt Stark
+
+# FUTURE MANAGEMENT SUMMARY
 
 
-# Usage
-To probarly use the script and recreate the measurement results gained with the images, please alter the width and the image-path the section "Define width of left most object in image and image-path" , according to the following table:
+
+# Usage of scripts
+To probarly use the [IP2_Notebook](https://github.com/DominiquePeytrignet/BTHE/blob/main/PythonFiles/IP2_Notebook.ipynb) and recreate the measurement results gained with the images, please alter the width and the image-path the section "Define width of left most object in image and image-path" , according to the following table:
 
 | Image file    | Width         |
 | ------------- | ------------- |
