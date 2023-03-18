@@ -1,9 +1,11 @@
 # Industry Project 2
 Industry Project 2 about object measuring in images. Acts as prestudy for Bachelor Thesis.
 
-Author: Dominique Peytrignet
-1st Supervisor: Prof. Dr. Cédric Bessire
-2nd Supervisor: Matt Stark
+| Role   | Name         |
+| ------------- | ------------- |
+| Author   | Dominique Peytrignet         |
+| 1st Supervisor| Prof. Dr. Cédric Bessire         |
+| 2nd Supervisor| Matt Stark       |
 
 # FUTURE MANAGEMENT SUMMARY
 
