@@ -28,3 +28,4 @@ ax.set_zlim(-10, 10)
 
 # Show the plot
 plt.show()
+
