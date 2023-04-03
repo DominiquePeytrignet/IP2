@@ -38,6 +38,6 @@ To probarly use the [Object_Measurements](https://github.com/DominiquePeytrignet
 | Test_4.jpg   | 85.46         |
 
 
-In the [Alternative_shapes]https://github.com/DominiquePeytrignet/BTHE/blob/main/PythonFiles/Alternative_shapes.ipynb script the amount of edges can be altered to identidy different polygons. 
+In the [Alternative_shapes](https://github.com/DominiquePeytrignet/BTHE/blob/main/PythonFiles/Alternative_shapes.ipynb) script the amount of edges can be altered to identidy different polygons. 
 
 All the other scripts can be used as they are. 
