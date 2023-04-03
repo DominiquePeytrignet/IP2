@@ -5,7 +5,7 @@ Industry Project 2 about object measuring in images. Acts as prestudy for Bachel
 | ------------- | ------------- |
 | Author   | Dominique Peytrignet         |
 | 1st Supervisor| Prof. Dr. Cédric Bessire         |
-| 2nd Supervisor| Matt Stark       |
+| Expert | Matt Stark       |
 
 # Abstract of Industry Project 2
 The ability to let a computer understand images and videos to fulfil a specific task, is called computer vision. Computer vision applications are used in many industries such as in automotive to detect and classify road signs, in manufacturing to visually control the quality of the produced product.  
@@ -22,11 +22,8 @@ In a third step, a literature research was conducted to find out methodologies o
 
 As a future work, namely the Bachelor Thesis, it has to be evaluated whether this methodology can be applied to the RBC images. A difficulty would be trying to track the RBC in the video sequence, as it would be required to build the depth estimation network. As an alternative, further methodologies could be evaluated which have other solutions to estimate the volume of RBCs.
 
-
-
-
 # Usage of scripts
-To probarly use the [IP2_Notebook](https://github.com/DominiquePeytrignet/BTHE/blob/main/PythonFiles/IP2_Notebook.ipynb) and recreate the measurement results gained with the images, please alter the width and the image-path the section "Define width of left most object in image and image-path" , according to the following table:
+To probarly use the [Object_Measurements](https://github.com/DominiquePeytrignet/BTHE/blob/main/PythonFiles/Object_Measurements.ipynb) script and recreate the measurement results gained with the images, please alter the width and the image-path the section "Define width of left most object in image and image-path" , according to the following table:
 
 | Image file    | Width         |
 | ------------- | ------------- |
@@ -39,3 +36,8 @@ To probarly use the [IP2_Notebook](https://github.com/DominiquePeytrignet/BTHE/b
 | Test_3.jpg   | 31.34         |
 | Test_3_180.jpg  | 27.30 |
 | Test_4.jpg   | 85.46         |
+
+
+In the [Alternative_shapes]https://github.com/DominiquePeytrignet/BTHE/blob/main/PythonFiles/Alternative_shapes.ipynb script the amount of edges can be altered to identidy different polygons. 
+
+All the other scripts can be used as they are. 
